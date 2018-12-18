@@ -1,0 +1,6 @@
+apple fruit
+banana fruit
+grapes fruit
+not fruit
+orange fruit
+pomegranate fruit
